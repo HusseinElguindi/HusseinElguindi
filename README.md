@@ -1,4 +1,4 @@
-Software Engineering student at the University of Waterloo. I like to build software quickly and go down rabbit holes of computer science theory. Check out some of these examples:
+Software Engineering student at the University of Waterloo. I like to build software quickly and go down rabbit holes of computer science theory. See some of these examples:
 - Computer Networking: Browser Fingerprinting (WIP), Peer-To-Peer Networks ([DropNow](https://dropnow.elguindi.xyz)), VPNs ([Bypassing VPN Restrictions](https://github.com/HusseinElguindi/udp-obfs-rs))
 - Compilers: Recursive Descent, CFGs, DFAs ([LaTeX Transpiler](https://github.com/HusseinElguindi/xet))
 - Concurrency: Green Threads, Task Schedulers ([Chunked File Downloader](https://github.com/HusseinElguindi/mtd))
